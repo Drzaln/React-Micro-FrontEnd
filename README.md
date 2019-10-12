@@ -6,7 +6,7 @@ Simple demo for implementing micro-fe with following stacks:
 - Webpack
 - Single-spa
 
-To run this example, go to each sub folder and `npm start`, then run `npm start` in this folder.
+To run this example, go to each sub folder and `npm start`.
 
 
 Base app runs at `localhost:3000`.
